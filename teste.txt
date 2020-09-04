@@ -1,3 +1,5 @@
 testo criado pelo vim
 nova linha para testes
 teste de diferenca
+testes sao sempre bemvindos
+
